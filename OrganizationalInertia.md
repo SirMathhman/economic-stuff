@@ -1,0 +1,7 @@
+The total value of a firm's assets is a key component of its organizational inertia. Organizational inertia refers to the company's resistance to change due to its existing structure, processes, and resources. It includes both tangible assets, such as property, plant, and equipment, as well as intangible assets, such as brand equity, intellectual property, and human capital.
+
+The greater the value of a firm's assets, the greater its organizational inertia is likely to be. This is because the firm has invested significant resources in building its assets and establishing its organizational structure and processes. These assets and processes can create barriers to change and make it more difficult for the company to adapt to new market conditions or pursue new opportunities.
+
+However, it is important to note that the value of a firm's assets is not the only factor that contributes to its organizational inertia. Other factors, such as the company's culture, leadership, and decision-making processes, can also play a role in shaping the firm's resistance to change.
+
+Overall, the total value of a firm's assets is an important consideration when assessing its organizational inertia, as it provides a sense of the company's existing resources and capabilities. However, it is important to take a holistic view of the company's organizational structure and processes to fully understand its ability to adapt and innovate in response to changing market conditions.
