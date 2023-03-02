@@ -50,3 +50,4 @@ However, it is reasonable to claim that there is a limit, both in terms of theor
 Regardless of the value of this speed limit, we need to look at the visible effects caused by approaching this speed limit. In special relativity, approaching the speed of light causes the time within the moving reference frame to [slow down](https://en.wikipedia.org/wiki/Time_dilation). Furthermore, it is also asserted that the [length](https://en.wikipedia.org/wiki/Length_contraction) of a moving object decreases when approaching the speed of light.
 
 Recall that our interpretation of velocity is the change in position, both in physics as well as economics. Thus, our interpretation of time dilation should be that economics and firms that are rapidly changing their competitive standing (position) should also have a slower internal clock.
+
