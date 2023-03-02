@@ -1,0 +1,7 @@
+The concept of potential energy in physics refers to the energy that is stored in an object as a result of its position or state. In an economic context, we can interpret potential energy as the value that a firm can potentially create or capture in the future due to its position or state.
+
+For example, a firm with a strong brand, a large customer base, and a dominant market position may have a significant amount of potential energy. This is because the firm has the ability to leverage its position to create and capture value in the future, such as by introducing new products or services, expanding into new markets, or increasing market share.
+
+Similarly, a firm that has invested heavily in research and development and has a strong portfolio of intellectual property may also have significant potential energy. This is because the firm has the ability to leverage its intellectual property to create and capture value in the future, such as by licensing its technology to other companies or using it to develop new products or services.
+
+Overall, the concept of potential energy in an economic context refers to the value that a firm can potentially create or capture in the future due to its position or state. It can be a useful way to think about a company's future potential and can inform investment decisions and strategic planning.

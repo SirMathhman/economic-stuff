@@ -1,0 +1,7 @@
+The concept of work, as understood in physics, refers to the application of force over a distance, resulting in the transfer of energy. In an economic context, the concept of work can be understood as the application of resources to achieve a specific goal or objective.
+
+For a firm to have performed work, it means that it has utilized its resources, such as capital, labor, and technology, to create value for its stakeholders. This may involve the production of goods or services, the development of new technologies, the acquisition of assets, or the creation of intellectual property, among other activities.
+
+In an economic context, work is typically measured in terms of the output produced by the firm, which may be expressed in terms of revenue, profits, market share, or other metrics. The level of work performed by a firm can be influenced by a variety of factors, including the efficiency of its operations, the quality of its management, the effectiveness of its marketing and sales efforts, and the competitive environment in which it operates.
+
+Ultimately, the goal of a firm's work is to create value for its stakeholders, including shareholders, employees, customers, and suppliers. This value may take many forms, such as profits, dividends, innovation, job creation, or societal benefits. By performing work, firms can generate economic growth and contribute to the welfare of society as a whole.
