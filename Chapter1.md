@@ -1,11 +1,10 @@
-
-## Basic Units
+# Chapter 1:  Basic Units
 
 We start by defining, loosely, the basic interpretations of physical units in an economic context, specifically with regards to firms. We treat each firm as a distinct entity. In each firm with its various assets and employees, we assert that the firm is a compound organization that in of itself contains smaller particles, in the same way that an atom contains subatomic particles.
 
 However, it is important to note that many of these physical quantities as of yet are difficult in of themselves to quantify and thus it would not be reasonable to specify one number to represent them (yet).
 
-### Position
+## Position
 
 We start with an interpretation of position.
 In an economic system, position can be interpreted as the competitive standing of a firm, whose position can be defined as a combination of its market share, its brand reputation, its pricing strategy, its distribution network, its product offerings, and other factors that contribute to its competitive advantage in the marketplace. 
@@ -13,7 +12,7 @@ A firm's position in the market can be seen as its relative location within the 
 
 However, as we can see, it is somewhat difficult to quantify the position of a firm. But we introduce the idea nonetheless.
 
-### Velocity
+## Velocity
 
 In physics, velocity is interpreted as the change in position with respect to time.
 Given the description of position above, velocity
@@ -22,13 +21,13 @@ market share, brand repuation, pricing strategy, etc., change over time.
 
 TODO: write more
 
-### Acceleration
+## Acceleration
 
 Likewise, acceleration can be though of as how fast that growth is.
 
 TODO: write more
 
-### Mass
+## Mass
 
 The concept of mass in physics is a quantity that is still undergoing research, with the origin of mass not yet understood fully.
 
@@ -44,7 +43,7 @@ Components of organizational inertia include:
 
 Conceptually, organization inertia represents the inability of a firm to react to change, in the same sense that mass represents the inability or resistance of a particle to react to a force. Organizations and particles that have a higher mass, generally speaking, require more effort to change.
 
-### Force
+## Force
 
 The concept of mass segues nicely into the economic interpretation of force.
 The economic interpretation of how a firm might be subjected to a force is often understood by most laypersons, however we will note some examples of how force may be administered:
@@ -57,14 +56,14 @@ Large enough forces will cause some firms to collapse, in the same sense that la
 
 However, a force does not necesarily have to be external for for a firm to change its position. A force can arise internally a firm (and it more often than not does), and it is through that force that the firm changes its position. This too happes in the physical world through ideas such as temperature (through Brownian motion).
 
-### Work
+## Work
 
 In physics, work is defined as the product of a force and displacement.
 Work can then be interpreted as having a sense of direction.
 
 This too works out with firms, albeit one-dimensionally. A firm's position can either increase or decrease, thus corresponding in direction that work might want to carry it. Generally speaking, the work that a firm performs on itself is to increase its position, whereas other forces, such as from other firms, government action, or resource distributions, may cause the firm to decrease its position.
 
-### Energy
+## Energy
 
 It is then well-known that work is defined as the change in kinetic energy, over a given time period (in classical physics). In the context of the aforementioned ideas, work causes a firm to be more or less energetic.
 
